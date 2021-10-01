@@ -1,0 +1,2 @@
+# spool-staging
+pool
